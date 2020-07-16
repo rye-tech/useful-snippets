@@ -1,5 +1,5 @@
 # useful-snippets
-My catchall for useful data wrangling plotting or what have you
+## My catchall for useful data wrangling plotting or what have you
 
 rm(list=ls()) #removes all objects in an R environment
 
