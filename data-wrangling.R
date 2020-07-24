@@ -50,6 +50,18 @@ sfx.df <- sfx.df %>%
 
 # Data Tidying ##########################################
 
+#relative directories in R
+
+# "C:/Users/915712257/Documents/R/rye-tech-sfsu/2020-season-summary"
+#  
+setwd(here("tidied-data", "bob", "seafet"))
+  
+#getwd()
+#"C:/Users/915712257/Documents/R/rye-tech-sfsu/2020-season-summary/tidied-data/bob/seafet"
+
+
+
+
 
 #renaming a single variable. Add multiple with commas. Quotes are optional
 
